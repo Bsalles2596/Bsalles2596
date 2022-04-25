@@ -1,7 +1,7 @@
 ## Olá Me chamo Bruno Salles 👋
 
 - ⚡ Atuo como Analista de Dados
-- ⚡ Desenvolvedor Full-Stack JavaScript
+- ⚡ Analise de dados e visualização
   
   <div align="center">
   <a href="https://github.com/Bsalles2596">
