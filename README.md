@@ -1,7 +1,7 @@
 ## Olá Me chamo Bruno Salles 👋
 
-- ⚡ Atuo como  Desenvolvedor de sistemas
-- ⚡ Suporte e desenvolvedor  -  Full-stack 
+- ⚡ Atuo como  Desenvolvedor Python 
+- ⚡ Analista de dados e desenvolvedor Python
   
   <div align="center">
   <a href="https://github.com/Bsalles2596">
