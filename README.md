@@ -1,7 +1,7 @@
 ## Olá Me chamo Bruno Salles 👋
 
 - ⚡ Atuo como  Desenvolvedor Python 
-- ⚡ Analista de dados e desenvolvedor Python
+- ⚡Interesses:  Dev Python , Analista de Dados ou Teste de Software
   
   <div align="center">
   <a href="https://github.com/Bsalles2596">
