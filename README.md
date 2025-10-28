@@ -1,7 +1,7 @@
 ## Olá Me chamo Bruno Salles 👋
 
-- ⚡ Atuo como  Desenvolvedor Python 
-- ⚡Interesses:  Dev Python , Analista de Dados ou Teste de Software
+- ⚡ Atuo como  Desenvolvedor Full - Stack / Analista de QA
+- ⚡Interesses:  Dev web , Automações e QA
   
   <div align="center">
   <a href="https://github.com/Bsalles2596">
