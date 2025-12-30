@@ -1,7 +1,7 @@
 ## Olá Me chamo Bruno Salles 👋
 
-- ⚡ Atuo como  Desenvolvedor Full - Stack / Analista de QA
-- ⚡Interesses:  Dev web , Automações e QA
+- ⚡ Atuo como  Analista de QA
+- ⚡Interesses:  QA (Quality Assurance), Analista de Testes, Engenheiro de QA e Analista de Qualidade
   
   <div align="center">
   <a href="https://github.com/Bsalles2596">
