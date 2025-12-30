@@ -9,9 +9,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsalles2596&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  <img align="center" alt="Rest-Assured" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
+  <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
+  <img align="center" alt="Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">  
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-   <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg">  
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg">  
   <img align="center" alt="Sql-server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -22,27 +31,6 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Cypress" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Playwright" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg">
-  <img align="center" alt="Postman" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="Rest-Assured" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Appium" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg">
-  <img align="center" alt="Jira" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-  <img align="center" alt="Confluence" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
-  <img align="center" alt="Notion" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
-  <img align="center" alt="Slack" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-  <img align="center" alt="Microsoft Teams" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftteams/microsoftteams-original.svg">
   </div>
   
   ##
